@@ -1,0 +1,211 @@
+Order_ID,Date,Food_Item,Quantity,Total_Price,Customer_Type,Feedback,Discount,Location
+ZM-1001,2025-06-13,Butter Chicken,3,546,RETURNING,,,Delhi
+ZM-1002,2025-01-24,Dosa,15,5932,RETURNING,Poor,10.0,Nagpur
+ZM-1003,2025-01-02,Fried Rice,3,573,NEW,Excellent,0.0,Kolkata
+ZM-1004,04/06/2025,Butter Chicken,4,1028,Returning,Excellent,,Bangalore
+ZM-1005,2025/04/03,Dosa,1,131,NEW,Excellent,10.0,Delhi
+ZM-1006,2025-04-04,Burger,3,519,RETURNING,Excellent,,Pune
+ZM-1007,29/04/2025,Pizza,5,880,New,,0.0,Hyderabad
+ZM-1008,2025/05/26,Burger,2,574,RETURNING,Poor,10.0,Bangalore
+ZM-1009,18/05/2025,Sandwich,4,1396,NEW,,10.0,Nagpur
+ZM-1010,2025-01-29,Biryani,4,1088,Returning,Poor,,Bangalore
+ZM-1011,2025/01/03,Paneer Tikka,5,1560,RETURNING,Average,0.0,Bangalore
+ZM-1012,2025/03/09,Biryani,5,735,NEW,Good,10.0,Hyderabad
+ZM-1013,2025-05-16,Sandwich,17,6599,NEW,Good,0.0,Chennai
+ZM-1014,2025/01/22,Momos,1,314,new,Good,50.0,Pune
+ZM-1015,2025-04-19,Pasta,2,604,RETURNING,Average,50.0,Nagpur
+ZM-1016,2025-03-28,Sandwich,5,890,,,0.0,Chennai
+ZM-1017,2025-03-26,Pasta,2,382,new,Good,,Nagpur
+ZM-1018,2025-04-15,Paneer Tikka,1,288,Returning,Poor,50.0,Mumbai
+ZM-1019,2025-01-26,Fried Rice,3,972,new,Good,10.0,Nagpur
+ZM-1020,2025-04-29,Paneer Tikka,4,1304,returning,Excellent,0.0,Mumbai
+ZM-1021,2025-03-02,Fried Rice,4,972,,Excellent,10.0,Kolkata
+ZM-1022,27/04/2025,Fried Rice,5,1445,new,Good,20.0,Chennai
+ZM-1023,2025-05-19,Burger,1,132,returning,,0.0,Delhi
+ZM-1024,2025/01/18,Dosa,4,600,returning,Good,,Mumbai
+ZM-1025,2025/05/30,Pasta,3,558,RETURNING,Average,10.0,Bangalore
+ZM-1026,18/03/2025,Burger,1,122,returning,Excellent,0.0,Chennai
+ZM-1027,2025-03-31,Dosa,3,576,returning,Average,,Mumbai
+ZM-1028,2025-06-19,Biryani,3,447,RETURNING,Good,20.0,Bangalore
+ZM-1029,2025/02/22,Pizza,5,1225,,Excellent,50.0,Bangalore
+ZM-1030,2025/02/03,Pizza,2,618,RETURNING,Poor,,Mumbai
+ZM-1031,2025-06-26,Pasta,1,333,,Good,50.0,Pune
+ZM-1032,11/01/2025,Dosa,2,580,returning,Poor,,Pune
+ZM-1033,2025-02-11,Fried Rice,1,165,NEW,Poor,10.0,Bangalore
+ZM-1034,2025-04-08,Momos,2,342,Returning,Average,20.0,Chennai
+ZM-1035,13/04/2025,Pizza,1,317,RETURNING,Poor,,Hyderabad
+ZM-1036,2025-03-08,Sandwich,3,387,Returning,Average,20.0,Kolkata
+ZM-1037,2025/04/09,Dosa,3,393,,Good,20.0,Kolkata
+ZM-1038,2025/03/26,Burger,1,304,returning,Average,50.0,Hyderabad
+ZM-1039,2025-02-02,Fried Rice,4,1172,new,Average,50.0,Mumbai
+ZM-1040,2025/05/29,Burger,4,932,new,Poor,10.0,Delhi
+ZM-1041,08/06/2025,Paneer Tikka,2,584,new,Good,0.0,Mumbai
+ZM-1042,19/01/2025,Fried Rice,5,845,Returning,Poor,50.0,Chennai
+ZM-1043,28/01/2025,Dosa,2,650,returning,Poor,0.0,Chennai
+ZM-1044,04/02/2025,Pasta,5,1360,Returning,Poor,,Nagpur
+ZM-1045,02/05/2025,Pizza,2,670,returning,Poor,10.0,Bangalore
+ZM-1046,02/03/2025,Burger,3,1044,new,Good,10.0,Kolkata
+ZM-1047,17/01/2025,Fried Rice,3,774,New,Good,50.0,Kolkata
+ZM-1048,2025-06-28,Sandwich,17,4223,Returning,Poor,,Chennai
+ZM-1049,2025-05-05,Fried Rice,3,873,Returning,Good,50.0,Pune
+ZM-1050,2025/04/11,Sandwich,1,141,new,Poor,10.0,Mumbai
+ZM-1051,27/04/2025,Burger,4,764,,Average,0.0,Nagpur
+ZM-1052,2025-03-31,Paneer Tikka,15,3816,New,Good,10.0,Pune
+ZM-1053,25/02/2025,Pizza,3,486,RETURNING,,10.0,Bangalore
+ZM-1054,2025/03/21,Fried Rice,4,1212,returning,Good,0.0,Bangalore
+ZM-1055,2025/01/31,Butter Chicken,3,768,,Excellent,,Hyderabad
+ZM-1056,2025-05-06,Fried Rice,3,846,Returning,Good,50.0,Pune
+ZM-1057,2025/03/11,Pasta,4,956,RETURNING,Average,20.0,Chennai
+ZM-1058,2025-04-26,Momos,5,1380,NEW,Excellent,50.0,Hyderabad
+ZM-1059,08/03/2025,Pizza,5,1495,returning,Excellent,,Chennai
+ZM-1060,2025/05/06,Dosa,4,1140,Returning,Excellent,0.0,Bangalore
+ZM-1061,2025/03/20,Sandwich,3,723,NEW,Poor,,Hyderabad
+ZM-1062,20/03/2025,Dosa,1,304,New,Good,10.0,Chennai
+ZM-1063,2025/05/31,Sandwich,3,435,NEW,Good,20.0,Pune
+ZM-1064,02/02/2025,Butter Chicken,1,261,new,Poor,0.0,Mumbai
+ZM-1065,23/04/2025,Biryani,1,184,Returning,Excellent,0.0,Kolkata
+ZM-1066,2025-06-25,Biryani,2,654,NEW,Excellent,10.0,Delhi
+ZM-1067,2025/06/02,Dosa,5,1085,Returning,Average,,Kolkata
+ZM-1068,2025/06/06,Paneer Tikka,2,560,RETURNING,,10.0,Chennai
+ZM-1069,01/01/2025,Momos,5,1200,,Average,20.0,Nagpur
+ZM-1070,2025/03/09,Sandwich,2,456,,Good,20.0,Pune
+ZM-1071,2025/03/20,Sandwich,3,696,RETURNING,Average,50.0,Bangalore
+ZM-1072,2025/01/21,Butter Chicken,4,1232,NEW,Excellent,0.0,Chennai
+ZM-1073,2025/05/28,Butter Chicken,14,4927,returning,Poor,20.0,Pune
+ZM-1074,2025-05-06,Momos,3,672,RETURNING,Excellent,10.0,Hyderabad
+ZM-1075,19/06/2025,Pasta,1,236,NEW,Average,0.0,Kolkata
+ZM-1076,2025/01/01,Pasta,4,900,returning,Average,,Nagpur
+ZM-1077,22/02/2025,Pasta,2,386,RETURNING,Poor,0.0,Mumbai
+ZM-1078,2025/03/03,Biryani,18,3381,new,Excellent,50.0,Delhi
+ZM-1079,2025/03/16,Pizza,4,1332,Returning,Good,50.0,Pune
+ZM-1080,2025/05/11,Biryani,1,190,Returning,Average,,Bangalore
+ZM-1081,2025/03/18,Sandwich,4,1364,returning,Poor,20.0,Hyderabad
+ZM-1082,27/04/2025,Dosa,2,532,Returning,Excellent,20.0,Nagpur
+ZM-1083,2025/04/09,Biryani,4,516,returning,Average,0.0,Nagpur
+ZM-1084,2025/01/04,Biryani,4,1368,new,Excellent,50.0,Bangalore
+ZM-1085,2025-06-16,Burger,5,1085,RETURNING,Poor,,Mumbai
+ZM-1086,25/06/2025,Dosa,1,231,RETURNING,Excellent,50.0,Pune
+ZM-1087,12/01/2025,Butter Chicken,3,633,new,Good,,Kolkata
+ZM-1088,2025-02-13,Paneer Tikka,5,1710,RETURNING,Good,50.0,Pune
+ZM-1089,28/04/2025,Butter Chicken,4,1400,returning,Good,0.0,Nagpur
+ZM-1090,2025/03/18,Fried Rice,3,708,new,Poor,50.0,Delhi
+ZM-1091,28/05/2025,Pizza,1,332,NEW,Excellent,,Mumbai
+ZM-1092,2025-03-15,Sandwich,3,528,returning,Average,10.0,Delhi
+ZM-1093,21/03/2025,Butter Chicken,5,1065,New,Average,20.0,Kolkata
+ZM-1094,19/05/2025,Pasta,5,945,NEW,Poor,20.0,Hyderabad
+ZM-1095,2025-01-20,Dosa,4,1344,NEW,Excellent,50.0,Mumbai
+ZM-1096,2025/04/05,Pizza,5,1085,,Excellent,10.0,Nagpur
+ZM-1097,24/05/2025,Sandwich,2,570,Returning,Average,50.0,Delhi
+ZM-1098,19/03/2025,Paneer Tikka,1,180,new,Poor,50.0,Hyderabad
+ZM-1099,19/05/2025,Sandwich,2,692,New,Poor,,Kolkata
+ZM-1100,26/06/2025,Dosa,4,932,,Excellent,20.0,Hyderabad
+ZM-1101,01/02/2025,Paneer Tikka,2,568,New,Excellent,20.0,Chennai
+ZM-1102,2025-02-22,Pasta,2,540,new,Average,10.0,Mumbai
+ZM-1103,2025/02/03,Pizza,2,296,New,Good,0.0,Hyderabad
+ZM-1104,2025-03-24,Biryani,3,399,Returning,Excellent,0.0,Nagpur
+ZM-1105,2025-06-01,Momos,5,880,,Average,50.0,Mumbai
+ZM-1106,13/04/2025,Paneer Tikka,4,1208,,Excellent,20.0,Pune
+ZM-1107,2025/06/12,Pasta,3,651,returning,Average,50.0,Kolkata
+ZM-1108,2025/06/17,Pasta,2,460,new,Poor,20.0,Nagpur
+ZM-1109,22/03/2025,Burger,3,645,RETURNING,Poor,0.0,Delhi
+ZM-1110,2025/01/25,Burger,2,524,returning,Average,0.0,Kolkata
+ZM-1111,2025/04/19,Butter Chicken,3,819,New,Good,10.0,Nagpur
+ZM-1112,23/05/2025,Paneer Tikka,3,798,,Excellent,,Bangalore
+ZM-1113,21/03/2025,Burger,1,166,returning,Poor,0.0,Pune
+ZM-1114,2025/01/24,Pasta,2,432,NEW,Good,20.0,Bangalore
+ZM-1115,2025/05/26,Paneer Tikka,1,159,returning,Excellent,0.0,Bangalore
+ZM-1116,05/06/2025,Fried Rice,3,525,New,Average,50.0,Delhi
+ZM-1117,2025/05/05,Pizza,1,176,returning,Excellent,0.0,Chennai
+ZM-1118,05/02/2025,Pizza,18,3719,new,Poor,,Chennai
+ZM-1119,2025-04-01,Fried Rice,13,6531,NEW,Poor,,Kolkata
+ZM-1120,30/01/2025,Butter Chicken,3,489,returning,Poor,20.0,Delhi
+ZM-1121,2025/04/22,Fried Rice,5,700,NEW,,10.0,Hyderabad
+ZM-1122,2025-06-12,Pasta,5,845,NEW,Average,10.0,Chennai
+ZM-1123,2025/02/14,Biryani,1,165,RETURNING,Poor,50.0,Nagpur
+ZM-1124,2025/06/14,Sandwich,3,1023,NEW,Good,50.0,Delhi
+ZM-1125,2025/03/12,Butter Chicken,3,747,Returning,Poor,0.0,Mumbai
+ZM-1126,2025-06-15,Sandwich,5,1245,returning,Excellent,50.0,Chennai
+ZM-1127,2025-02-08,Momos,1,327,,Excellent,,Pune
+ZM-1128,2025/04/23,Pasta,5,800,NEW,,50.0,Hyderabad
+ZM-1129,2025/06/11,Burger,1,204,RETURNING,Poor,20.0,Bangalore
+ZM-1130,2025-06-04,Burger,1,269,NEW,Average,50.0,Pune
+ZM-1131,2025/03/21,Fried Rice,3,984,,Excellent,50.0,Hyderabad
+ZM-1132,24/02/2025,Momos,2,354,new,Excellent,20.0,Delhi
+ZM-1133,2025-05-15,Burger,5,765,new,,10.0,Pune
+ZM-1134,2025/04/04,Dosa,4,1104,RETURNING,Poor,10.0,Chennai
+ZM-1135,2025-05-01,Burger,5,1160,NEW,Poor,,Kolkata
+ZM-1136,2025-06-04,Pizza,1,284,NEW,Excellent,,Delhi
+ZM-1137,11/03/2025,Pasta,2,664,new,Poor,20.0,Mumbai
+ZM-1138,2025-04-06,Fried Rice,1,215,NEW,Excellent,20.0,Pune
+ZM-1139,2025/05/01,Biryani,4,936,New,Excellent,20.0,Chennai
+ZM-1140,2025/06/05,Fried Rice,1,318,NEW,Excellent,0.0,Chennai
+ZM-1141,2025-04-28,Paneer Tikka,4,1088,RETURNING,Good,10.0,Bangalore
+ZM-1142,2025/03/03,Fried Rice,2,580,returning,Average,0.0,Mumbai
+ZM-1143,12/06/2025,Burger,13,4412,new,Excellent,,Hyderabad
+ZM-1144,2025/03/28,Biryani,4,1192,,Good,0.0,Nagpur
+ZM-1145,2025-02-21,Burger,3,753,returning,Poor,20.0,Mumbai
+ZM-1146,2025-04-02,Burger,3,453,Returning,Poor,50.0,Kolkata
+ZM-1147,27/06/2025,Burger,5,940,RETURNING,Poor,0.0,Kolkata
+ZM-1148,20/05/2025,Burger,1,140,NEW,Average,50.0,Kolkata
+ZM-1149,2025-04-25,Burger,5,1155,New,Excellent,50.0,Hyderabad
+ZM-1150,2025-02-10,Biryani,5,1465,New,Good,0.0,Chennai
+ZM-1151,2025/04/09,Butter Chicken,5,795,NEW,Average,50.0,Delhi
+ZM-1152,12/04/2025,Pizza,14,5044,returning,Poor,,Delhi
+ZM-1153,2025-04-25,Sandwich,3,891,Returning,Good,0.0,Pune
+ZM-1154,2025-04-24,Burger,3,903,returning,Average,20.0,Pune
+ZM-1155,2025-06-13,Burger,5,885,,Good,10.0,Nagpur
+ZM-1156,05/04/2025,Pasta,2,552,New,Average,50.0,Nagpur
+ZM-1157,2025-05-28,Biryani,3,852,Returning,Average,10.0,Pune
+ZM-1158,2025-05-09,Paneer Tikka,5,795,new,Average,10.0,Hyderabad
+ZM-1159,2025-03-14,Pizza,2,564,NEW,Good,20.0,Delhi
+ZM-1160,2025-05-29,Biryani,5,1520,,Excellent,0.0,Delhi
+ZM-1161,28/05/2025,Dosa,5,1130,New,Poor,,Bangalore
+ZM-1162,2025/03/04,Fried Rice,3,708,New,Good,50.0,Kolkata
+ZM-1163,2025-06-05,Burger,3,921,NEW,Poor,10.0,Hyderabad
+ZM-1164,03/03/2025,Paneer Tikka,3,705,New,Excellent,20.0,Kolkata
+ZM-1165,10/02/2025,Sandwich,3,504,Returning,Poor,50.0,Bangalore
+ZM-1166,2025/04/11,Momos,2,350,New,Excellent,20.0,Nagpur
+ZM-1167,22/06/2025,Pizza,5,610,Returning,Good,20.0,Hyderabad
+ZM-1168,2025-04-13,Sandwich,5,845,NEW,Excellent,50.0,Nagpur
+ZM-1169,2025/06/09,Sandwich,1,152,Returning,Average,20.0,Hyderabad
+ZM-1170,11/05/2025,Pasta,17,6293,Returning,Poor,10.0,Pune
+ZM-1171,11/02/2025,Sandwich,3,813,returning,,,Bangalore
+ZM-1172,2025/03/26,Paneer Tikka,4,1076,RETURNING,Excellent,,Nagpur
+ZM-1173,2025/05/29,Dosa,1,269,,Poor,10.0,Chennai
+ZM-1174,2025-01-29,Butter Chicken,4,800,Returning,Good,50.0,Nagpur
+ZM-1175,2025/01/16,Biryani,5,865,RETURNING,Poor,,Kolkata
+ZM-1176,17/05/2025,Pasta,3,879,RETURNING,Average,,Nagpur
+ZM-1177,23/05/2025,Dosa,3,951,new,Poor,20.0,Nagpur
+ZM-1178,12/03/2025,Paneer Tikka,5,1465,,Average,10.0,Bangalore
+ZM-1179,21/01/2025,Momos,3,933,new,Average,,Bangalore
+ZM-1180,2025-05-31,Dosa,1,291,new,Good,0.0,Delhi
+ZM-1181,2025/01/26,Biryani,1,260,new,Poor,50.0,Nagpur
+ZM-1182,15/03/2025,Pizza,1,316,returning,Good,,Mumbai
+ZM-1183,2025-02-15,Fried Rice,4,668,NEW,Excellent,0.0,Bangalore
+ZM-1184,27/03/2025,Momos,5,1270,new,Poor,20.0,Chennai
+ZM-1185,2025/04/28,Pizza,2,246,NEW,Good,10.0,Kolkata
+ZM-1186,23/01/2025,Paneer Tikka,2,310,new,Excellent,20.0,Kolkata
+ZM-1187,26/03/2025,Sandwich,5,610,NEW,Good,0.0,Delhi
+ZM-1188,2025/06/25,Pizza,1,283,NEW,Average,,Chennai
+ZM-1189,09/02/2025,Sandwich,3,678,Returning,Good,10.0,Delhi
+ZM-1190,2025-04-03,Sandwich,1,135,returning,Good,,Pune
+ZM-1191,2025-04-24,Dosa,5,1225,returning,Poor,0.0,Nagpur
+ZM-1192,2025-05-25,Pasta,4,1168,RETURNING,Excellent,50.0,Bangalore
+ZM-1193,2025-05-29,Butter Chicken,4,832,,Excellent,0.0,Nagpur
+ZM-1194,2025/02/04,Fried Rice,3,1044,Returning,Poor,0.0,Pune
+ZM-1195,2025/02/15,Fried Rice,5,760,new,Excellent,0.0,Bangalore
+ZM-1196,2025/04/19,Fried Rice,2,366,,Average,10.0,Delhi
+ZM-1197,2025-06-07,Dosa,2,274,New,,,Mumbai
+ZM-1198,2025-04-23,Pasta,2,626,New,Good,,Bangalore
+ZM-1199,28/05/2025,Sandwich,5,1585,NEW,Good,20.0,Pune
+ZM-1200,16/04/2025,Pizza,1,262,,Good,50.0,Nagpur
+ZM-1096,2025/04/05,Pizza,5,1085,,Excellent,10.0,Nagpur
+ZM-1016,2025-03-28,Sandwich,5,890,,,0.0,Chennai
+ZM-1031,2025-06-26,Pasta,1,333,,Good,50.0,Pune
+ZM-1159,2025-03-14,Pizza,2,564,NEW,Good,20.0,Delhi
+ZM-1129,2025/06/11,Burger,1,204,RETURNING,Poor,20.0,Bangalore
+ZM-1116,05/06/2025,Fried Rice,3,525,New,Average,50.0,Delhi
+ZM-1070,2025/03/09,Sandwich,2,456,,Good,20.0,Pune
+ZM-1171,11/02/2025,Sandwich,3,813,returning,,,Bangalore
+ZM-1175,2025/01/16,Biryani,5,865,RETURNING,Poor,,Kolkata
+ZM-1046,02/03/2025,Burger,3,1044,new,Good,10.0,Kolkata
